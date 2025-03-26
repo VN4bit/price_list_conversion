@@ -9,6 +9,19 @@ Use case for the application of AutoHotkey](https://vn4bit.github.io/portfolio/t
 
 The implementation was carried out using **AutoHotkey V2.0**.
 
+|![](https://github.com/VN4bit/price_list_conversion/blob/main/screenshots/1.png)|
+|---|
+|Price list folder with `.PDF` before execution|
+
+|![](https://github.com/VN4bit/price_list_conversion/blob/main/screenshots/2.png)|
+|---|
+|Price list folder with `.PDF`, `.XLSX` and `.CSV` after execution|
+
+|![](https://github.com/VN4bit/price_list_conversion/blob/main/screenshots/3.png)|
+|---|
+|Ready window|
+
+
 ## Features
 - Automated extraction of price list data from a PDF file.
 - Processing and formatting of the data.
