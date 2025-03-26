@@ -33,3 +33,4 @@ The implementation was carried out using **AutoHotkey V2.0**.
 ## Usage
 1. The PDF price list needs to be in the dedicated folder.
 2. Start the AHK script.
+3. Wait for ready window and press ok.
